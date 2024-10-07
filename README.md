@@ -46,25 +46,6 @@ The dashboard uses two main datasets:
 
 ## **Setup Instructions**
 
-### 1. **Clone the Repository**
-To get started, clone the repository to your local machine:
-```bash
-git clone https://github.com/yourusername/customer-satisfaction-dashboard.git
-cd customer-satisfaction-dashboard
-```
-
-### 2. **Open Power BI**
-- Open **Power BI Desktop** and load the `.pbix` file from the repository:  
-  `src/dashboard_script.pbix`
-  
-### 3. **Import the Dataset**
-- Once the file is loaded, refresh the dataset in Power BI to load the latest data.
-
-### 4. **Explore the Dashboard**
-- Use the provided filters and explore various metrics on the dashboard.
-
----
-
 ## **How to Use the Dashboard**
 
 - **Agent Filter**: Select a specific agent to see their performance in answering calls and satisfying customers.
